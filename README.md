@@ -2,8 +2,6 @@ You can report Acknex Reborn issues here.
 
 I'll go through them one by one as soon as I have some free time:
 
-https://github.com/rickomax/acknexrebornissues/issues
-
 When creating an issue, please provide as much information as possible, including:
 
 - The game you're running
