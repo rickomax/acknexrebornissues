@@ -1,4 +1,6 @@
-If you guys have a GitHub account, you can report issues directly on the project's GitHub Issues page. I'll go through them one by one as soon as I have some free time:
+You can report Acknex Reborn issues here.
+
+I'll go through them one by one as soon as I have some free time:
 
 https://github.com/rickomax/acknexrebornissues/issues
 
