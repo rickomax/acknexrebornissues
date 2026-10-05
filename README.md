@@ -14,4 +14,9 @@ When creating an issue, please provide as much information as possible, includin
 The more details you provide, the easier it will be for me to reproduce and fix the issue. Thanks!
 
 Project page:
+
 https://rickomax.github.io/acknex-reborn/
+
+You can help the Acknex Reborn project:
+
+https://ko-fi.com/ricardoreis
