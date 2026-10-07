@@ -1,6 +1,8 @@
-You can report Acknex Reborn issues here.
+# ACKNEX Reborn - Issue Tracker
 
-I'll go through them one by one as soon as I have some free time:
+You can report **ACKNEX Reborn** bugs and issues here.
+
+I'll go through the reports one by one as soon as I have some free time.
 
 When creating an issue, please provide as much information as possible, including:
 
@@ -8,13 +10,17 @@ When creating an issue, please provide as much information as possible, includin
 - The operating system you're using
 - Steps to reproduce the issue
 - What is expected to happen in the original game
-- Acknex reborn version you're running
+- The **ACKNEX Reborn version** you're running
 - A copy of your `wwrun.cfg` file
 
-The more details you provide, the easier it will be for me to reproduce and fix the issue. Thanks!
+The more details you provide, the easier it will be for me to reproduce, investigate, and fix the issue.
 
-Project page:
+Thanks for helping improve ACKNEX Reborn!
+
+## Links
+
+**Project page:**  
 https://rickomax.github.io/acknex-reborn/
 
-You can help the Acknex Reborn project:
-https://ko-fi.com/ricardoreis
+**Support ACKNEX Reborn:**  
+[![ACKNEX Reborn](https://github.com/user-attachments/assets/77cce5e4-dddd-4cbb-85c6-54239d06b826)](https://rickomax.github.io/acknex-reborn/)
