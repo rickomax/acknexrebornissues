@@ -23,4 +23,8 @@ Thanks for helping improve ACKNEX Reborn!
 https://rickomax.github.io/acknex-reborn/
 
 **Support ACKNEX Reborn:**  
-[![ACKNEX Reborn](https://github.com/user-attachments/assets/77cce5e4-dddd-4cbb-85c6-54239d06b826)](https://rickomax.github.io/acknex-reborn/)
+<a href="https://rickomax.github.io/acknex-reborn/">
+  <img src="https://github.com/user-attachments/assets/77cce5e4-dddd-4cbb-85c6-54239d06b826"
+       alt="ACKNEX Reborn"
+       width="300">
+</a>
